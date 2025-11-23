@@ -1,6 +1,6 @@
-# DSA Assignments - Problem Descriptions
+# Assignment 1: - Two Rectangles and Sum of Primes
 
-## Assignment 1: Two Rectangles
+## Problem A: Two Rectangles
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes
@@ -42,7 +42,7 @@ For the test case given in the example, to cover all points with one rectangle, 
 
 ---
 
-## Assignment 2: Sum of Primes
+## Problem B: Sum of Primes
 
 **Time limit per test:** 1 second  
 **Memory limit per test:** 256 megabytes
