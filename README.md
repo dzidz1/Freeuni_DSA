@@ -12,7 +12,7 @@ Homework assignments and solutions for the Data Structures and Algorithms course
 
 | # | Problems | Topics | Language |
 |---|----------|--------|----------|
-| 1 | [Two Rectangles](./assn-01-dzidz1) | Geometry, Optimization | C++ |
+| 1 | [Two Rectangles, Sum of Primes](./assn-01-dzidz1) | Geometry, Optimization | C++ |
 | 2 | [Bit Inversion, Bird Migration](./assn-02-dzidz1) | Segment Trees, Range Queries, Greedy | C++ |
 | 3 | [Pairs, Restaurant](./assn-03-dzidz1) | Combinatorics, Dynamic Programming | C++ |
 | 4 | [Codeforces Problems](./assn-04-dzidz1) | Various | C++ |
